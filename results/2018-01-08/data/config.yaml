@@ -1,0 +1,2 @@
+data_root: '~/projects/project/data'
+protein_sequence: 'seq/Uniprot.fasta'
